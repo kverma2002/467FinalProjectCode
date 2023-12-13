@@ -14,4 +14,6 @@ for notebook data, there will alwasy be a datapath for a file that should be in 
 
 RNN and Lexicon are in code folder.
 
-I just ran the files 
+I just ran the files with pyhton3 and there are some commented out parts for certain tasks
+
+Google drive link - https://drive.google.com/drive/folders/15arB3PvKYFxBVrh6lkNLZWjriQNES3vR?usp=drive_link
