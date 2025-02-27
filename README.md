@@ -1,3 +1,5 @@
+Write up in TwitterSentimentAnalysis.pdf (Final Grade 97%)
+
 # 467FinalProjectCode
 
 links to google collabs:
